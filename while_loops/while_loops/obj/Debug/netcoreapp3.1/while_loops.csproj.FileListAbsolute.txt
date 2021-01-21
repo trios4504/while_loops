@@ -1,0 +1,12 @@
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/while_loops/while_loops/bin/Debug/netcoreapp3.1/while_loops.deps.json
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/while_loops/while_loops/bin/Debug/netcoreapp3.1/while_loops.runtimeconfig.json
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/while_loops/while_loops/bin/Debug/netcoreapp3.1/while_loops.runtimeconfig.dev.json
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/while_loops/while_loops/bin/Debug/netcoreapp3.1/while_loops.dll
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/while_loops/while_loops/bin/Debug/netcoreapp3.1/while_loops.pdb
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/while_loops/while_loops/obj/Debug/netcoreapp3.1/while_loops.csprojAssemblyReference.cache
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/while_loops/while_loops/obj/Debug/netcoreapp3.1/while_loops.AssemblyInfoInputs.cache
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/while_loops/while_loops/obj/Debug/netcoreapp3.1/while_loops.AssemblyInfo.cs
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/while_loops/while_loops/obj/Debug/netcoreapp3.1/while_loops.csproj.CoreCompileInputs.cache
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/while_loops/while_loops/obj/Debug/netcoreapp3.1/while_loops.dll
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/while_loops/while_loops/obj/Debug/netcoreapp3.1/while_loops.pdb
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/while_loops/while_loops/obj/Debug/netcoreapp3.1/while_loops.genruntimeconfig.cache
